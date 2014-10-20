@@ -15,8 +15,6 @@ setup(
         'bunch       >= 1.0',
         'PyYAML      >= 3.10',
         'markdown    >= 2.1.0',
-        'jsonlib2    >= 1.5.2',
-        'anyjson     >= 0.3.1',
         "colorama    >= 0.2.4",
     ],
     zip_safe         = False,
