@@ -11,7 +11,7 @@ setup(
     
     packages         = find_packages(),
     install_requires = [
-        'path        >= 2.2',
+        'path.py     >= 2.2',
         'bunch       >= 1.0',
         'PyYAML      >= 3.10',
         'markdown    >= 2.1.0',
